@@ -17,7 +17,7 @@ Project Structure
 2. Install required Python packages: Flask, pymongo, pandas, matplotlib.
 3. Set up MongoDB on your local machine.
 4. Run the Flask application using python app.py.
-5. Open your web browser and go to http://localhost:5000/ to use the application.
+5. Open your web browser and go to http://18.117.83.254:5000/ to use the application.
 
 Deployment on AWS
 1. Set up an AWS account and create a new Elastic Beanstalk or EC2 instance.
